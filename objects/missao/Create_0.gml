@@ -1,0 +1,1 @@
+global.mission = 0;
